@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_65"/>
+	<classpathentry kind="lib" path="libs-selenium/byte-buddy-1.8.3.jar"/>
+	<classpathentry kind="lib" path="libs-selenium/client-combined-3.13.0.jar"/>
+	<classpathentry kind="lib" path="libs-selenium/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="libs-selenium/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="libs-selenium/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="libs-selenium/gson-2.8.4.jar"/>
+	<classpathentry kind="lib" path="libs-selenium/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="libs-selenium/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="libs-selenium/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="libs-selenium/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="libs-selenium/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="libs-selenium/htmlunit-driver-2.32.1-jar-with-dependencies.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
